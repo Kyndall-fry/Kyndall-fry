@@ -24,11 +24,11 @@ I'm particularly interested in how data can drive business strategy and operatio
 
 ## 📂 Featured Projects
 
-### 📊 [Project Name: Sales Dashboard in Tableau](#)
-*Description:* Built an interactive sales dashboard using Tableau to analyze regional performance, sales trends, and top-performing products.  
+### 📊 [Project Name: Sales Dashboard Final Project](#)
+*Description:* This project is a comprehensive Tableau dashboard analysis built to visualize and explore key business metrics from a fictional or real sales database. The workbook contains a wide array of worksheets and dashboards, each focusing on different perspectives of the sales data such as delivery time, sales channels, customer demographics, and product profitability.
 *Skills Used:* Tableau, SQL, Data Visualization, Data Storytelling
 
-### 📊 Executive Sales Summary Dashboard
+### 📊 [Project Name: Executive Sales Summary Dashboard](#)
 *Description:* This Tableau project visualizes and analyzes executive-level sales performance data from 2003 to 2005. The dashboard provides interactive and intuitive insights into revenue trends, product performance, geographic sales distribution, and customer activity.
 *Skills Used:* Tableau, SQL
 
