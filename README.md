@@ -28,9 +28,9 @@ I'm particularly interested in how data can drive business strategy and operatio
 *Description:* Built an interactive sales dashboard using Tableau to analyze regional performance, sales trends, and top-performing products.  
 *Skills Used:* Tableau, SQL, Data Visualization, Data Storytelling
 
-### 🔍 [Project Name: Customer Segmentation Analysis](#)
-*Description:* Analyzed customer purchasing behavior using Python clustering techniques and visualized the insights to inform marketing strategies.  
-*Skills Used:* Python, Pandas, Seaborn, SQL
+### 📊 Executive Sales Summary Dashboard
+*Description:* This Tableau project visualizes and analyzes executive-level sales performance data from 2003 to 2005. The dashboard provides interactive and intuitive insights into revenue trends, product performance, geographic sales distribution, and customer activity.
+*Skills Used:* Tableau, SQL
 
 ### 📈 [Project Name: Revenue Forecast Model](#)
 *Description:* Created a predictive model using historical sales data to forecast future revenue and identify seasonal trends.  
